@@ -14,7 +14,7 @@ This interactive Tableau dashboard provides a comprehensive overview of sales pe
 
 <strong>Customer Base Distribution</strong> – A geographical representation of customer spread based on sales data.
 
-<strong>🎯 Key Learnings</strong>
+### 🎯 Key Learnings
 
 ✔ Developed a strong understanding of data visualization and how to communicate complex insights effectively.
 
