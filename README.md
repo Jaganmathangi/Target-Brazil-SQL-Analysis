@@ -6,13 +6,13 @@ This interactive Tableau dashboard provides a comprehensive overview of sales pe
 
 <strong>Metrics at a Glance</strong> – Total Sales, Total Profit, Profit Margin, Number of Orders, and Number of Customers.
 
-Sales Breakdown – Visual insights on sales by Category, Segment, and Ship Mode, revealing revenue drivers.
+<strong>Sales Breakdown</strong> – Visual insights on sales by Category, Segment, and Ship Mode, revealing revenue drivers.
 
-Regional Performance – Sales analysis by region, identifying strengths and opportunities for growth.
+<strong>Regional Performance</strong> – Sales analysis by region, identifying strengths and opportunities for growth.
 
-Top Customer Insights – A spotlight on the top 5 customers by sales, showcasing valuable relationships.
+<strong>Top Customer Insights</strong> – A spotlight on the top 5 customers by sales, showcasing valuable relationships.
 
-Customer Base Distribution – A geographical representation of customer spread based on sales data.
+<strong>Customer Base Distribution</strong> – A geographical representation of customer spread based on sales data.
 
 <strong>🎯 Key Learnings</strong>
 
