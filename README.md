@@ -2,9 +2,9 @@
 
 This interactive Tableau dashboard provides a comprehensive overview of sales performance, offering key insights through clear and concise data visualizations.
 
-# 📊 Key Highlights
+### 📊 Key Highlights
 
-<strong>Metrics at a Glance</strong> – Total Sales, Total Profit, Profit Margin, Number of Orders, and Number of Customers.
+<b>Metrics at a Glance</b> – Total Sales, Total Profit, Profit Margin, Number of Orders, and Number of Customers.
 
 <strong>Sales Breakdown</strong> – Visual insights on sales by Category, Segment, and Ship Mode, revealing revenue drivers.
 
