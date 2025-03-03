@@ -4,5 +4,5 @@ This project leverages SQL to analyze e-commerce operations, focusing on Target�
 
 To visualize the findings, Tableau was used to create charts that effectively present sales trends, customer behavior, and operational efficiency. These visualizations help identify opportunities for business optimization and strategic decision-making.
 
-🚀 __Technologies Used:__ SQL, Tableau
-📊 __Key Insights:__ Sales trends, customer behavior, regional demand, delivery efficiency, and payment method analysis.
+- 🚀 __Technologies Used:__ SQL, Tableau
+- 📊 __Key Insights:__ Sales trends, customer behavior, regional demand, delivery efficiency, and payment method analysis.
