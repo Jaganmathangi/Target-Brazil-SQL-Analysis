@@ -8,4 +8,4 @@ To visualize the findings, Tableau was used to create charts that effectively pr
 - 📊 __Key Insights:__ Sales trends, customer behavior, regional demand, delivery efficiency, and payment method analysis.
 
 
-Please see the complete document [here]([url](https://github.com/Jaganmathangi/Target-Brazil-SQL-Analysis/blob/main/Target%20Case%20Study_Jagan%20Mathangi.pdf))
+Please see the complete document [here]([https://github.com/Jaganmathangi/Target-Brazil-SQL-Analysis/blob/main/Target%20Case%20Study_Jagan%20Mathangi.pdf]))
